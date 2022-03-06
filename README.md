@@ -1,14 +1,12 @@
 # Human-Computer-Interaction
 
-컴퓨터정보공학부 4학년 2학기 전공과목 HCI
+### 컴퓨터정보공학부 4학년 2학기 전공과목 HCI 최종 프로젝트
 
-## 주제 mock-up of a mobile app
+### 주제: mock-up of a mobile app
 
+# Fast-Best
 
-
-## Fast-Best
-
-메신저 기능에 필요한 기능만을 추가하여 빠르고 가벼운 메신저 앱 Fast-Best는 안드로이드와 iOS 모바일 환경 모두에서 작동할 수 있습니다.
+Fast-Best는 메신저 기능에 필요한 기능만을 추가하여 빠르고 가벼운 메신저 모바일 앱으로 안드로이드와 iOS 모바일 환경 모두에서 작동할 수 있습니다.
 
 ## 1. 로딩화면, 회원가입 화면
 
@@ -24,7 +22,6 @@
 로그인 이후 바로 채팅목록을 띄워 메시지를 확인할 수 있게 디자인을 구성했으며 가장 최근에 수신된 메시지가 최상단에 올 수 있도록 배치하여 사용자가 배치만으로 최신상태를 파악할 수 있게 제작했습니다.
 기다리지 않고 답장을 실시간으로 받을 수 있도록 접속한 사람들을 표시하여 답장 확률 및 속도를 향상시켰습니다.
 
-
 ## 3.	채팅방 설정 화면
 
 <img src="https://user-images.githubusercontent.com/79408217/156921462-4e255e4e-8843-4ebe-9833-d1d471b83b0b.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921477-b298f65a-4c6f-47c6-b0c3-6aea1cee7e3d.png" width="260" height="520">
@@ -39,7 +36,8 @@
 
 ## 5. 친구목록 및 친구설정
 
-<img src="https://user-images.githubusercontent.com/79408217/156921581-e2a3527c-95d2-46b4-9d65-d6f1c03aed2c.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921582-c592d8bd-f48c-4373-b391-5fff4791e3f8.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921594-155ef6b8-6d7f-45b3-a51b-fa0bd1ef94ed.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921602-1da3e3e3-70ea-425a-9f9e-7cef2859e6ab.png" width="260" height="520">
+<img src="https://user-images.githubusercontent.com/79408217/156921581-e2a3527c-95d2-46b4-9d65-d6f1c03aed2c.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921582-c592d8bd-f48c-4373-b391-5fff4791e3f8.png" width="260" height="520"> 
+<img src="https://user-images.githubusercontent.com/79408217/156921594-155ef6b8-6d7f-45b3-a51b-fa0bd1ef94ed.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921602-1da3e3e3-70ea-425a-9f9e-7cef2859e6ab.png" width="260" height="520">
 
 친구 목록아래 List를 누르면 저장된 친구 목록을 불러옵니다. 친구의 초상화나 이름을 누르면 친구와의 채팅방으로 이동하며 설정버튼을 누르면 친구를 개인적으로 설정할 수 있는 setting 화면이 나오고 
 이는 채팅방에서 setting 버튼을 누를 때와는 다른 화면으로 확장성을 증가시켰습니다.
