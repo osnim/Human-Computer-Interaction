@@ -36,11 +36,11 @@ Fast-Best는 메신저 기능에 필요한 기능만을 추가하여 빠르고 �
 
 ## 5. 친구목록 및 친구설정
 
-<img src="https://user-images.githubusercontent.com/79408217/156921581-e2a3527c-95d2-46b4-9d65-d6f1c03aed2c.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921582-c592d8bd-f48c-4373-b391-5fff4791e3f8.png" width="260" height="520">
-<img src="https://user-images.githubusercontent.com/79408217/156921594-155ef6b8-6d7f-45b3-a51b-fa0bd1ef94ed.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921602-1da3e3e3-70ea-425a-9f9e-7cef2859e6ab.png" width="260" height="520">
+<img src="https://user-images.githubusercontent.com/79408217/156921581-e2a3527c-95d2-46b4-9d65-d6f1c03aed2c.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921582-c592d8bd-f48c-4373-b391-5fff4791e3f8.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156921602-1da3e3e3-70ea-425a-9f9e-7cef2859e6ab.png" width="260" height="520">
 
-친구 목록아래 List를 누르면 저장된 친구 목록을 불러옵니다. 친구의 초상화나 이름을 누르면 친구와의 채팅방으로 이동하며 설정버튼을 누르면 친구를 개인적으로 설정할 수 있는 setting 화면이 나오고
-이는 채팅방에서 setting 버튼을 누를 때와는 다른 화면으로 확장성을 증가시켰습니다.
+친구 목록아래 List를 누르면 저장된 친구 목록을 불러옵니다.
+친구의 초상화나 이름을 누르면 친구와의 채팅방으로 이동하며 이 채팅방 안에서 설정버튼을 누르면 친구를 개인적으로 설정할 수 있는 setting 화면이 나오게 인터페이스를 디자인 해보았습니다. 
+채팅방에서 환경설정 버튼을 누를 때(3. **채팅방 설정 화면**) 와는 다른 화면 구성으로 제작하여 같은 모양의 버튼이어느 화면에 속하는지에 따라 다르게 작동하게 제작해보았습니다.
 
 ## 6. 개인설정 및 프로필 설정
 
