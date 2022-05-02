@@ -11,7 +11,6 @@ Fast-Best는 메신저 기능에 필요한 기능만을 추가하여 빠르고 �
 ## 1. 로딩화면, 회원가입 화면
 
 <img src="https://user-images.githubusercontent.com/79408217/156919398-ac241f21-5eb1-4c21-a83b-5eb33f32dcbf.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156919400-0c83aea9-b718-4c45-952a-ab470cda5bf1.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156919744-c49fa925-5108-400d-94e7-4686b9e71346.png" width="260" height="520">
-<img src="https://user-images.githubusercontent.com/79408217/156919398-ac241f21-5eb1-4c21-a83b-5eb33f32dcbf.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156919400-0c83aea9-b718-4c45-952a-ab470cda5bf1.png" width="260" height="520"> <img src="https://user-images.githubusercontent.com/79408217/156919744-c49fa925-5108-400d-94e7-4686b9e71346.png" width="260" height="520">
 
 로딩화면을 클릭하면 바로 ID와 비밀번호를 입력할 수 있는 화면이 제공됩니다. 사용자 확인을 진행하여 safe한 환경을 제공하며 서로 다른 사용자가 같은 모바일 기기에서 메신저 앱을 사용할 수 있게 구성됩니다.
 만약 사용자가 가입이 되어있지 않다면 회원가입을 기능을 제공하여 누구나 쉽게 모바일 메신저 앱을 사용할 수 있게 제작하였습니다.
